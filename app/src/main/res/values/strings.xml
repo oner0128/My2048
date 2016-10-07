@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My2048</string>
+    <string name="Score">Score</string>
+    <string name="HAHA">HAHAHA</string>
+</resources>
